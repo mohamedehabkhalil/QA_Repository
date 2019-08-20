@@ -1,0 +1,17 @@
+ConverterSoap\ConvertDataTableColumn.xml
+ConverterSoap\GetConversionAmount.xml
+ConverterSoap\GetConversionRate.xml
+ConverterSoap\GetCultureInfo.xml
+ConverterSoap\GetCurrencies.xml
+ConverterSoap\GetCurrencyRate.xml
+ConverterSoap\GetCurrencyRates.xml
+ConverterSoap\GetLastUpdateDate.xml
+ConverterSoap12\ConvertDataTableColumn.xml
+ConverterSoap12\GetConversionAmount.xml
+ConverterSoap12\GetConversionRate.xml
+ConverterSoap12\GetCultureInfo.xml
+ConverterSoap12\GetCurrencies.xml
+ConverterSoap12\GetCurrencyRate.xml
+ConverterSoap12\GetCurrencyRates.xml
+ConverterSoap12\GetLastUpdateDate.xml
+Project-1-TestSuite-1\ConverterSoap-GetConversionAmount-GetConversionAmount-Request-TestCase.xml
